@@ -1,0 +1,16 @@
+case 1:
+This could use visa card eligibility servce (VCES) APIs. 
+As the API could check eligiility level and hence know whether the payment card is a signature card.
+If yes, then whe could turn to visa payment processing (VPP) APIs, to generate the discount in the  middle of payment.
+
+case 2:
+This could use B2B virtual account payment method APIs ot request virtual account API.
+As it can generate a virtual account and then has the overall control over the account. 
+
+case 3:
+This could use Merchant Search API.
+As it lets clients find the merchant identification information using the acquirer provided Merchant Name and other attributes such as address and card acceptor identifiers.
+
+case 4:
+This may use the order insight digital APIs.
+To let the customers know more about the transaction info via requests. 
